@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Quant Dashboard",
+  "description": "A web application to visualize cryptocurrency market data, technical indicators, and trading signals, with AI-powered analysis from Gemini.",
+  "requestFramePermissions": []
+}
